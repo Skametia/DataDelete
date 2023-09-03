@@ -1,0 +1,15 @@
+.expence-content {
+  background-color: #1a2885;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+
+  margin: 10px;
+}
+.btn{
+  width: 40px;
+  font-size: 30px;
+  color: white;
+  background-color: #1a2885;
+  border: none;
+}
